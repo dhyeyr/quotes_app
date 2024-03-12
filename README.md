@@ -1,16 +1,31 @@
-# quotes_app
+# Quotes App
+# Project Technologies:
+- Dart language
+- Flutter framework with MVC and Provider architecture
 
-A new Flutter project.
+# Project Requirements:
+- Knowledge of programming languages such as Dart and JavaScript.
+- Familiarity with the Flutter framework, Shared Preferences, and JSON parsing.
+- Understanding of user interface design principles and best practices.
+- Experience with mobile app development and related tools like Android Studio or VS Code.
+- Ability to work independently.
+# Project Deliverables:
+- A functional Animator application developed using Flutter.
+- Source code and documentation for the application.
+- User manual and installation instructions.
+- Project report detailing the development process, challenges faced, and solutions implemented.
+- Presentation and demonstration of the application to a panel of reviewers.
 
-## Getting Started
+# Project Evaluation:
+- User satisfaction with the application’s functionality and UI/UX
+- Quality of code and project structure
+- Presentation quality and clarity of communication
+# Screen Shorts (ss):
+![Untitled design (4)](https://github.com/dhyeyr/quotes_app/assets/143472343/1ad3e792-2166-4790-8350-6d29d46ee4ac)
 
-This project is a starting point for a Flutter application.
+# Screen Recoding :
+https://github.com/dhyeyr/quotes_app/assets/143472343/d9d20ce3-1245-4acf-9128-c274b8fc7dd7
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
